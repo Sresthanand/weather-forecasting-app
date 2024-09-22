@@ -1,3 +1,8 @@
-node_modules
-build
-.env 
+# Ignore node_modules
+node_modules/
+
+# Ignore build folder
+build/
+
+# Ignore environment variables
+.env
