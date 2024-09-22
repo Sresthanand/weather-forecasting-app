@@ -1,5 +1,7 @@
 🌤️ Weather Forecast Application
 
+Live Application Deployed Link: https://weather-forecasting-app-665q.vercel.app/
+
 A simple, user-friendly React.js weather forecasting app that fetches real-time weather data from a public API. This project emphasizes reusable components, API integration, state management, and responsive design.
 
 🚀 Features
@@ -116,3 +118,8 @@ This will generate optimized files in the `build` folder.
 ![alt text](image.png)
 ![alt text](image-1.png)
 ![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
+![alt text](image-6.png)
+![alt text](image-7.png)
